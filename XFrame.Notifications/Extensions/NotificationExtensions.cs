@@ -1,7 +1,7 @@
 ﻿using XFrame.Common.Extensions;
 using XFrame.Notifications;
 
-namespace XFrame.Rules.Extensions
+namespace XFrame.Notifications.Extensions
 {
     public static class NotificationExtensions
     {
